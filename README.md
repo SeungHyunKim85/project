@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# 공부한 내용을 정리하며 좀 더 잘 이해하고 기억할 수 있어요. :blushed:
+# 공부한 내용을 정리하며 좀 더 잘 이해하고 기억할 수 있어요.
 
 ## 내가 정리한 글로 다른 사람에게 도움을 줄 수 있어요.
 
